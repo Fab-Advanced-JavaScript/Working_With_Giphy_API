@@ -1,0 +1,25 @@
+
+.myInput {
+    margin-top: 5em;
+    margin-left: 40%
+}
+h1 {
+    margin-left: 25%
+}
+.btn {
+    background: #bcdde0;
+}
+body {
+    background-color: #bcdde0;
+}
+img {
+    height: 180px;
+    width: 250px;
+    margin-top: 8px;;
+    padding: 8px;
+}
+.divParent {
+    float: left;
+    width: 80%;
+    margin-left: 10%;
+}
