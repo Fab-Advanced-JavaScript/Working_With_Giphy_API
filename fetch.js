@@ -1,5 +1,4 @@
 
-// my apiKey 6QYLjX0549AdzTxRwYumNPL4iAyhtJj8
 const init = () => {
     let searchBtn = document.querySelector("#searchBtn");
     let clearBtn = document.querySelector("#clearBtn");
